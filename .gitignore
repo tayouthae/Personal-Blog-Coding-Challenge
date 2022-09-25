@@ -1,0 +1,41 @@
+# Compiled files
+dist/
+
+# Config file
+config/config.js
+
+# Node stuff
+node_modules
+.npm
+.node_repl_history
+.lock-wscript
+logs
+*.log
+
+# dependencies
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env
+
+
+# typescript
+*.tsbuildinfo
+.idea
