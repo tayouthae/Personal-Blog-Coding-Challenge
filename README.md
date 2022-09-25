@@ -96,9 +96,9 @@ After the server is up and running change the base url in the client again in th
 </div>
 
 <div align="center">
-  <img alt="Demo" src="./client/src/assets/Images/CreatePage.png" />
+  <img alt="Demo" src="./client/src/assets/Images/CreateBlog.png" />
 </div>
 
 <div align="center">
-  <img alt="Demo" src="./client/src/assets/Images/UpdatePage.png" />
+  <img alt="Demo" src="./client/src/assets/Images/UpdateBlog.png" />
 </div>
